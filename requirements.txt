@@ -1,0 +1,8 @@
+numpy
+matplotlib
+stable_baselines3
+torch
+tyro
+tensorboard
+wandb
+tqdm

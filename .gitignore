@@ -1,0 +1,8 @@
+.idea
+.python-version
+.DS_Store
+__pycache__
+runs
+wandb
+offline_data/
+scripts
